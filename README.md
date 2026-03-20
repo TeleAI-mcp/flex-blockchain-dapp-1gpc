@@ -1,2 +1,3 @@
-# flex-blockchain-dapp-1gpc
+# Flex Blockchain Dapp 1Gpc
+
 A repository to test GitHub automation for issue management.
